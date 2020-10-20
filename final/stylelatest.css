@@ -1,0 +1,205 @@
+#abc{
+    margin-right: 20px;
+}
+h1{
+    line-height: 1;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 50px;
+    margin: 0;
+
+    color:white;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+.button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 20px;
+    background: #FF5F6D;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFC371, #FF5F6D);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFC371, #FF5F6D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 5%, rgba(0,212,255,1) 100%);
+    /*!*background: -webkit-linear-gradient( right , #92FE9D, #00C9FF);*!*/
+}
+h4{
+    border-style: double;
+    color: black;
+    font-weight: 1000;
+}
+a img {
+    border: 0;
+    display: block;
+    width: 450px;
+    height: auto;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+}
+#logo{
+
+}
+* {box-sizing: border-box;}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+    overflow: hidden;
+    background:#2196F3 ;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #fff;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #2196F3;
+    color: white;
+}
+
+.topnav .search-container {
+    float: right;
+}
+
+.topnav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+}
+
+.topnav .search-container button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+.topnav .search-container button:hover {
+    background: #ccc;
+}
+#b1{
+    background-image: url("../not final/images/bg1.jpg");
+}
+.container {
+
+    position: relative;
+    width: auto;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+ul{
+    float: left;
+}
+.image {
+    display: block;
+    width: 250px;
+    height: auto;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+}
+
+.container:hover .overlay {
+    height: 100%;
+    width: 900px;
+    margin-left: 450px;
+}
+.overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    overflow: hidden;
+    width: auto;
+    height: 0;
+    transition: .5s ease;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+.footer {
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+}
+.text {
+    color: #0c0101;
+    font-size: 20px;
+    position: absolute;
+    top: 40%;
+    left: 450px;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 500px;
+}
+
+    /*text-align: center;*/
+
+hr{
+    width: 100%;
+    color: black;
+    border:10px solid #0c0101;
+}
+h1{
+    line-height: 1;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 72px;
+    margin: 0;
+    color: white;  /* Fallback: assume this color ON TOP of image */
+    /*background: url(../not final/images/textcolor.png);*/
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    /*color:white;*/
+    text-align: center;
+    text-shadow: 2px 5px  white;
+}
+.top{
+    background-color: #2196F3;
+    background-image: url("../not final/images/final background.png");
+}
+h5{
+    font-weight: 100;
+    color: white;
+    margin-left: 80px;
+    font-size: 20px;
+}
+h6{
+    /*font-weight: 100;*/
+    /*color: white;*/
+    /*margin-left: 80px;*/
+    font-size: 20px;
+    margin-bottom: 0;
+}
+/*img{*/
+/*    border: solid;*/
+/*    border-bottom-width: thick;*/
+/*}*/

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b244e904-cd94-4192-9830-73ff2f578ae5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="Xampp PHP 7.4.9" />
+  <component name="ProjectId" id="1giDl8R3qzIhIvt9CpaH95MYlob" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\srija\WebstormProjects\HTMLproject\final" />
+      <recent name="C:\Users\srija\WebstormProjects\HTMLproject\final\images" />
+      <recent name="C:\Users\srija\WebstormProjects\HTMLproject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.home.php">
+    <configuration name="home.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTMLproject/final/home.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="latest.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTMLproject/final/latest.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Home.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/final/Home.js" working-dir="$PROJECT_DIR$/final">
+      <method v="2" />
+    </configuration>
+    <configuration name="api.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/final/api.js" working-dir="$PROJECT_DIR$/final">
+      <method v="2" />
+    </configuration>
+    <configuration name="testing js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/final/testing js.js" working-dir="$PROJECT_DIR$/final">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.home.php" />
+      <item itemvalue="JavaScript Debug.latest.php" />
+      <item itemvalue="Node.js.api.js" />
+      <item itemvalue="Node.js.testing js.js" />
+      <item itemvalue="Node.js.Home.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.home.php" />
+        <item itemvalue="JavaScript Debug.latest.php" />
+        <item itemvalue="Node.js.api.js" />
+        <item itemvalue="Node.js.Home.js" />
+        <item itemvalue="Node.js.testing js.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b244e904-cd94-4192-9830-73ff2f578ae5" name="Default Changelist" comment="" />
+      <created>1598588668064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598588668064</updated>
+      <workItem from="1598588669096" duration="7593000" />
+      <workItem from="1598598588751" duration="1588000" />
+      <workItem from="1598604027617" duration="7074000" />
+      <workItem from="1598678190690" duration="864000" />
+      <workItem from="1598679070644" duration="11469000" />
+      <workItem from="1598866579902" duration="599000" />
+      <workItem from="1599106762912" duration="867000" />
+      <workItem from="1599107637687" duration="20000" />
+      <workItem from="1599107768247" duration="2922000" />
+      <workItem from="1599476841021" duration="87000" />
+      <workItem from="1600487315176" duration="629000" />
+      <workItem from="1600492272455" duration="3831000" />
+      <workItem from="1600508602623" duration="534000" />
+      <workItem from="1600518132553" duration="767000" />
+      <workItem from="1600705529641" duration="3000" />
+      <workItem from="1600774827844" duration="606000" />
+      <workItem from="1600775446390" duration="8243000" />
+      <workItem from="1600921659793" duration="1184000" />
+      <workItem from="1600923662041" duration="2808000" />
+      <workItem from="1600928478685" duration="5000" />
+      <workItem from="1600928490299" duration="11000" />
+      <workItem from="1600928584856" duration="53000" />
+      <workItem from="1600929148432" duration="267000" />
+      <workItem from="1600930374853" duration="1518000" />
+      <workItem from="1600931927501" duration="4503000" />
+      <workItem from="1600948275881" duration="1081000" />
+      <workItem from="1600949421206" duration="621000" />
+      <workItem from="1600950448828" duration="498000" />
+      <workItem from="1600950966905" duration="115000" />
+      <workItem from="1600951289756" duration="119000" />
+      <workItem from="1600951519901" duration="288000" />
+      <workItem from="1600951826295" duration="4216000" />
+      <workItem from="1600971164416" duration="59000" />
+      <workItem from="1600971236539" duration="595000" />
+      <workItem from="1601004426817" duration="2268000" />
+      <workItem from="1601015325698" duration="3042000" />
+      <workItem from="1601018829895" duration="231000" />
+      <workItem from="1601019081390" duration="4089000" />
+      <workItem from="1601091556445" duration="8065000" />
+      <workItem from="1601112697084" duration="601000" />
+      <workItem from="1601115059467" duration="22000" />
+      <workItem from="1601122072716" duration="7141000" />
+      <workItem from="1601180914501" duration="1074000" />
+      <workItem from="1601182041487" duration="2847000" />
+      <workItem from="1601268004050" duration="700000" />
+      <workItem from="1601526887837" duration="1603000" />
+      <workItem from="1601528607695" duration="4429000" />
+      <workItem from="1601618823204" duration="262000" />
+      <workItem from="1601642811870" duration="16489000" />
+      <workItem from="1601738403294" duration="3621000" />
+      <workItem from="1601745558718" duration="583000" />
+      <workItem from="1601748548561" duration="524000" />
+      <workItem from="1601796967789" duration="2686000" />
+      <workItem from="1601802159882" duration="4964000" />
+      <workItem from="1601874684301" duration="3275000" />
+      <workItem from="1601907177780" duration="9150000" />
+      <workItem from="1601972540752" duration="134000" />
+      <workItem from="1601984652569" duration="616000" />
+      <workItem from="1602048144587" duration="1784000" />
+      <workItem from="1602063391392" duration="7100000" />
+      <workItem from="1602081651481" duration="960000" />
+      <workItem from="1602127048347" duration="2288000" />
+      <workItem from="1602129368701" duration="11382000" />
+      <workItem from="1602149940466" duration="9886000" />
+      <workItem from="1602218232894" duration="10197000" />
+      <workItem from="1602267007533" duration="10499000" />
+      <workItem from="1602316746499" duration="5152000" />
+      <workItem from="1602383197473" duration="6266000" />
+      <workItem from="1602490906606" duration="8237000" />
+      <workItem from="1602511461345" duration="1094000" />
+      <workItem from="1602513974411" duration="2087000" />
+      <workItem from="1602523988839" duration="790000" />
+      <workItem from="1602524801022" duration="13087000" />
+      <workItem from="1602572111937" duration="4265000" />
+      <workItem from="1602576430307" duration="85000" />
+      <workItem from="1602576600486" duration="3048000" />
+      <workItem from="1602584732259" duration="13705000" />
+      <workItem from="1602655401027" duration="5485000" />
+      <workItem from="1602697376806" duration="3439000" />
+      <workItem from="1602922082865" duration="80000" />
+      <workItem from="1602922215291" duration="167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="175" key="#CLI_Interpreters" timestamp="1600928245428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1600928245428" />
+    <state x="753" y="240" key="#Docker" timestamp="1600928243764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="240" key="#Docker/0.0.1920.1040@0.0.1920.1040" timestamp="1600928243764" />
+    <state x="667" y="163" key="#PHP" timestamp="1600928259586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="163" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1600928259586" />
+    <state x="336" y="361" key="#SQL_Dialects" timestamp="1602304234195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="336" y="361" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1602304234195" />
+    <state x="757" y="309" key="#Web_Browsers" timestamp="1602564158241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="757" y="309" key="#Web_Browsers/0.0.1920.1040@0.0.1920.1040" timestamp="1602564158241" />
+    <state x="299" y="153" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602587131642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="299" y="153" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602587131642" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601528059180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601528059180" />
+    <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600492879849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1600492879849" />
+    <state x="1092" y="259" width="440" height="516" key="FileChooserDialogImpl" timestamp="1602527096448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1092" y="259" width="440" height="516" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602527096448" />
+    <state width="1542" height="141" key="GridCell.Tab.0.bottom" timestamp="1602922274575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1542" height="141" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602922274575" />
+    <state width="1542" height="141" key="GridCell.Tab.0.center" timestamp="1602922274575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1542" height="141" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602922274575" />
+    <state width="1542" height="141" key="GridCell.Tab.0.left" timestamp="1602922274575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1542" height="141" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602922274575" />
+    <state width="1542" height="141" key="GridCell.Tab.0.right" timestamp="1602922274575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1542" height="141" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602922274575" />
+    <state width="1877" height="181" key="GridCell.Tab.1.bottom" timestamp="1602576359721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="181" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602576359721" />
+    <state width="1877" height="181" key="GridCell.Tab.1.center" timestamp="1602576359720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="181" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602576359720" />
+    <state width="1877" height="181" key="GridCell.Tab.1.left" timestamp="1602576359720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="181" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602576359720" />
+    <state width="1877" height="181" key="GridCell.Tab.1.right" timestamp="1602576359720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="181" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602576359720" />
+    <state width="1877" height="181" key="GridCell.Tab.2.bottom" timestamp="1602576359721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="181" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602576359721" />
+    <state width="1877" height="181" key="GridCell.Tab.2.center" timestamp="1602576359721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="181" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602576359721" />
+    <state width="1877" height="181" key="GridCell.Tab.2.left" timestamp="1602576359721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="181" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602576359721" />
+    <state width="1877" height="181" key="GridCell.Tab.2.right" timestamp="1602576359721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="181" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602576359721" />
+    <state width="1877" height="763" key="GridCell.Tab.3.bottom" timestamp="1602564111900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="763" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602564111900" />
+    <state width="1877" height="763" key="GridCell.Tab.3.center" timestamp="1602564111899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="763" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602564111899" />
+    <state width="1877" height="763" key="GridCell.Tab.3.left" timestamp="1602564111899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="763" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602564111899" />
+    <state width="1877" height="763" key="GridCell.Tab.3.right" timestamp="1602564111899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="763" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602564111899" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1602597914602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602597914602" />
+    <state x="461" y="165" width="992" height="733" key="SettingsEditor" timestamp="1602576414118">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602576414118" />
+    <state x="461" y="197" width="992" height="733" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1599107654375" />
+    <state x="854" y="407" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1602656753968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="854" y="407" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040@0.0.1920.1040" timestamp="1602656753968" />
+    <state x="676" y="328" key="jetbrains.nodejs.interpreters-dialog" timestamp="1602527113810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="328" key="jetbrains.nodejs.interpreters-dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602527113810" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1602564376707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602564376707" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601132752610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601132752610" />
+  </component>
+</project>
